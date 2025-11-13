@@ -1,13 +1,14 @@
-# Mochamad-A.CandraAugwanchaMSH-
+# -A.CandraAugwanchaMSH-
+# PRAKTIKUM SISTEM OPERASI
 
 PROJECT-OS-A.CandraAugwanchaMSH
 Project Based Learning 2
 
-LATIHAN 2
+# LATIHAN 2
 
 Berikut langkah-langkah penulisan syntax nya:
 
-1. Masuk ke Folder sistem_operasi
+# 1. Masuk ke Folder sistem_operasi
 
 Penjelasan:
 
@@ -15,7 +16,7 @@ Perintah cd berarti change directory — digunakan untuk masuk ke folder proyek 
 
 Pastikan folder ini sudah ada di direktori home kamu sebelumnya (~/).
 
-2. Membuat Struktur Folder Proyek
+# 2. Membuat Struktur Folder Proyek
 mkdir src doc data
 Penjelasan:
 
@@ -29,7 +30,7 @@ doc → tempat menyimpan dokumentasi.
 
 data → tempat menyimpan data atau file pendukung.
 
-3. Membuat File Baru
+# 3. Membuat File Baru
 touch README.MD src main.sh
 Penjelasan:
 
@@ -47,7 +48,7 @@ README.MD → file dokumentasi utama proyek (biasanya berisi deskripsi proyek di
 
 main.sh → file shell script utama (kode yang bisa dijalankan di terminal Linux).
 
-4. Melihat Struktur Folder
+# 4. Melihat Struktur Folder
 tree
 
 Penjelasan:
@@ -64,7 +65,7 @@ Jika perintah tree belum ada di sistem kamu, install dengan:
 
 sudo apt install tree
 
-5. Melihat Ukuran Folder
+# 5. Melihat Ukuran Folder
 du -h --max-depth=1
 
 Penjelasan:
@@ -77,4 +78,5 @@ du = disk usage, untuk melihat ukuran setiap folder.
 
 Output-nya memperlihatkan ukuran masing-masing folder (data, src, doc) dan total ukuran keseluruhan.
 
-BERIKUT LINK DESKRIPSI HASIL DOKUMENTASI PEMBUATAN :https://drive.google.com/drive/folders/1ECDVizUtGV7VZMaWR55CjrIS4-4NONrP?usp=drive_link
+# BERIKUT LINK DESKRIPSI HASIL DOKUMENTASI PEMBUATAN : 
+(https://drive.google.com/drive/folders/1ECDVizUtGV7VZMaWR55CjrIS4-4NONrP?usp=drive_link)
